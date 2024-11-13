@@ -100,3 +100,17 @@ The backend server provides the following endpoints:
 
 To customize the chatbot responses, edit the `responses.py` file in the backend directory. 
 
+# Screenshots
+## Desktop view
+<img width="1440" alt="Screen Shot 2024-11-12 at 11 02 01 PM" src="https://github.com/user-attachments/assets/4cfc4bfd-0a1d-47d3-abf3-633a43e4cba3">
+<img width="1440" alt="Screen Shot 2024-11-12 at 11 02 40 PM" src="https://github.com/user-attachments/assets/6be762dd-7eb0-475e-8018-ca91d7c7364e">
+
+## Mobile view
+<img width="214" alt="Screen Shot 2024-11-12 at 11 08 07 PM" src="https://github.com/user-attachments/assets/50836c94-06eb-4986-aa98-18c4c822263f">
+<img width="214" alt="Screen Shot 2024-11-12 at 11 06 21 PM" src="https://github.com/user-attachments/assets/35afa508-25c5-4727-98e7-239c7310376c">
+
+
+
+
+
+
